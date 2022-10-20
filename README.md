@@ -2,7 +2,7 @@
 
 Parstagram is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
-## Part I User Stories
+## User Stories (Part I)
 
 The following functionality is completed:
 
@@ -17,7 +17,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://i.imgur.com/iCs3gAU.gif" width=750 />
 
-## Part II User Stories
+## User Stories (Part II)
 
 The following functionality is completed:
 
